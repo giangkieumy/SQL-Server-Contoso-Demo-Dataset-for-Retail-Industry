@@ -1,6 +1,7 @@
 This mini-project is aimed at analyzing sales trends, profits, consumer behaviors, best-selling products and promotion strategies across 
 countries, regions and periods of time by writing queries that retrieve and sort datafrom the Contoso Demo Dataset for Retail Industry 
 which created by Microsoft. Besides, the query results are imported to Excel so that they can be summarized and visualized by Pivot table, 
-Power Pivot and Pivot charts.
+and Pivot charts.
+
 
 
